@@ -1,4 +1,6 @@
-# My first calculator in functional programming
+# calculator
+
+My first calculator in functional programming
 
 Калькулятор получился правда неплохой
 
