@@ -1,6 +1,6 @@
 # calculator
 
-My first_calculator in functional programming
+My first_text_calculator in functional programming
 
 Калькулятор получился правда неплохой
 
