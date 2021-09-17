@@ -1,4 +1,4 @@
-# calculator
+# text calculator
 
 My first_text_calculator in functional programming
 
